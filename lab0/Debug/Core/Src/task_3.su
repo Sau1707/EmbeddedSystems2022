@@ -1,0 +1,3 @@
+../Core/Inc/lab0.h:45:20:toggle	16	static
+../Core/Inc/lab0.h:50:20:uart_println	16	static
+../Core/Src/task_3.c:38:6:task_3	24	static

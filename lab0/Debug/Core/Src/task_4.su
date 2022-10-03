@@ -1,0 +1,4 @@
+../Core/Inc/lab0.h:45:20:toggle	16	static
+../Core/Inc/lab0.h:50:20:uart_println	16	static
+../Core/Src/task_4.c:40:6:task_4	16	static
+../Core/Src/task_4.c:71:6:print_and_increment	16	static
